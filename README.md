@@ -26,8 +26,6 @@ A hands-on networking lab that joins two **Aruba 6300 (AOS-CX)** switches with a
 ## 🗺️ Network Topology
 ![Network diagram](screenshots/01-network-diagram.png)
 
-> The Packet Tracer diagram is the template supplied with the project. Its `172.16.7.0`, `70`, `71` and `72` subnet labels are placeholders. The addressing that was built and captured is in [docs/topology.md](docs/topology.md).
-
 ---
 
 ## 📂 Repository Layout
